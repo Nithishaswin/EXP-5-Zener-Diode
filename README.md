@@ -43,6 +43,12 @@ In this experiment:
 - The load resistance is varied.
 - The output voltage is observed.
 
+## PRECAUTIONS
+
+1.While doing the experiment, do not exceed the ratings of the Zener diode; this may damage the diode.
+2.Connect the voltmeter and ammeter in correct polarities as shown in the circuit diagram.
+3.Do not switch ON the power supply unless the circuit connections have been checked as per the circuit diagram.
+
 ## PROCEDURE
 
 ### LINE REGULATION
@@ -89,9 +95,9 @@ In this experiment:
 
 <img width="1103" height="698" alt="Load_Reg_2" src="https://github.com/user-attachments/assets/f63fbeb0-2883-4295-81bc-df2633ee15ea" />
 
-## OBSERVATION TABLES
+## TABULATION
 
-### 1. LINE REGULATION
+### 1. LINE REGULATION (RL = 2000 Ω, constant)
 
 | S.No | Input Voltage (V) | Output Voltage (V) |
 |---|---:|---:|
@@ -106,7 +112,7 @@ In this experiment:
 | 9 | 110 | 10.26 |
 | 10 | 120 | 10.28 |
 
-### 2. LOAD REGULATION
+### 2. LOAD REGULATION (Vin = 30 V, constant)
 
 | S.No | Load Resistance (Ω) | Output Voltage (V) |
 |---|---:|---:|
@@ -121,27 +127,33 @@ In this experiment:
 | 9 | 900 | 10.05 |
 | 10 | 1000 | 10.08 |
 
-## GRAPHS
-
-### LINE REGULATION GRAPH
-
-<img width="1600" height="1000" alt="line_regulation_graph" src="https://github.com/user-attachments/assets/17dc8555-b812-4d98-ab91-bcde273c26d6" />
-
-### LOAD REGULATION GRAPH
-
-<img width="1600" height="1000" alt="load_regulation_graph" src="https://github.com/user-attachments/assets/9d741239-4ea9-4bea-8c89-a9884d2f8995" />
-
 ## FORMULAE
 
 ### LINE REGULATION
 
-Line Regulation = Change in Output Voltage / Change in Input Voltage
+% Line Regulation = Change in Output Voltage / Change in Input Voltage
+
+% Line regulation = (ΔVo / ΔVin) × 100
 
 ### LOAD REGULATION
 
-Percentage Load Regulation =
+% Load Regulation = (No-load Voltage - Full-load Voltage) / Full-load Voltage) × 100
 
-(No-load Voltage - Full-load Voltage) / Full-load Voltage) × 100
+% Load regulation = (VNL − VFL) / VFL × 100
+
+## SERIES RESISTANCE
+
+Series resistance, Rs = (Vin − Vz) / (Iz + IL)
+
+## MODEL GRAPHS
+
+### LINE REGULATION GRAPH (Vin vs Vo)
+
+<img width="1600" height="1000" alt="line_regulation_graph" src="https://github.com/user-attachments/assets/17dc8555-b812-4d98-ab91-bcde273c26d6" />
+
+### LOAD REGULATION GRAPH (RL vs Vo)
+
+<img width="1600" height="1000" alt="load_regulation_graph" src="https://github.com/user-attachments/assets/9d741239-4ea9-4bea-8c89-a9884d2f8995" />
 
 ## RESULT
 
