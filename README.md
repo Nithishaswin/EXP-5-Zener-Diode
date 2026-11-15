@@ -14,8 +14,8 @@ To study the operation of a Zener diode as a voltage regulator and observe its l
 | 3 | Load resistor (R2) | 2 kΩ | 1 |
 | 4 | Variable resistor (RV1) | Variable resistance | 1 |
 | 5 | DC Battery | DC Voltage Source | 1 |
-| 6 | Ammeter | As required | 1 |
-| 7 | Voltmeter | As required | 1 |
+| 6 | Ammeter | 0–1 A DC | 1 |
+| 7 | Voltmeter | 0–20 V DC | 1 |
 | 8 | Ground and connecting wires | — | As required |
 | 9 | Simulation software | Proteus Design Suite | 1 |
 
