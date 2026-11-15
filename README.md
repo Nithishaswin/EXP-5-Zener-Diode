@@ -5,17 +5,19 @@
 ## AIM
 To study the operation of a Zener diode as a voltage regulator and observe its line regulation and load regulation characteristics using Proteus simulation.
 
-## COMPONENTS REQUIRED
+## APPARATUS REQUIRED
 
-- Zener Diode – 1N4740A
-- Resistor R1 – 100 Ω
-- Load Resistor R2 – 2 kΩ
-- Variable Resistor (RV1)
-- DC Voltage Source
-- Ammeter
-- Voltmeter
-- Ground
-- Connecting Wires
+| S. No. | Name of the apparatus | Range / Specification | Quantity |
+|---:|---|---|---:|
+| 1 | Zener diode | 1N4740A | 1 |
+| 2 | Series resistor (R1) | 100 Ω | 1 |
+| 3 | Load resistor (R2) | 2 kΩ | 1 |
+| 4 | Variable resistor (RV1) | Variable resistance | 1 |
+| 5 | DC Battery | DC Voltage Source | 1 |
+| 6 | Ammeter | As required | 1 |
+| 7 | Voltmeter | As required | 1 |
+| 8 | Ground and connecting wires | — | As required |
+| 9 | Simulation software | Proteus Design Suite | 1 |
 
 ## THEORY
 
