@@ -90,11 +90,13 @@ In this experiment:
 <img width="1097" height="721" alt="Line_Reg_1" src="https://github.com/user-attachments/assets/85581d2c-6fe4-4966-8874-eb351ef01804" />
 
 
+
 <img width="1111" height="708" alt="Line_Reg_2" src="https://github.com/user-attachments/assets/c413ca53-6d1d-4b68-8980-1b274342daba" />
 
 ### LOAD REGULATION SIMULATION
 
 <img width="1091" height="727" alt="Load_Reg_1" src="https://github.com/user-attachments/assets/f55e4864-a9e0-4d86-9f29-5206bd91a0c4" />
+
 
 
 <img width="1103" height="698" alt="Load_Reg_2" src="https://github.com/user-attachments/assets/f63fbeb0-2883-4295-81bc-df2633ee15ea" />
