@@ -69,25 +69,25 @@ In this experiment:
 
 ### LINE REGULATION CIRCUIT
 
-<img width="1920" height="1080" alt="Line_Reg_Circuit" src="https://github.com/user-attachments/assets/796982c5-e5a6-4811-9f2e-035529e45194" />
+<img width="1130" height="720" alt="Line_Reg_Circuit" src="https://github.com/user-attachments/assets/6226cb77-cded-4633-af72-35590e86ec09" />
 
 ### LOAD REGULATION CIRCUIT
 
-<img width="1920" height="1080" alt="Load_Reg_Circuit" src="https://github.com/user-attachments/assets/2ef0dd13-be46-4b79-8c49-ddf9946afeab" />
+<img width="1090" height="724" alt="Load_Reg_Circuit" src="https://github.com/user-attachments/assets/a4e451ac-5aef-4282-a17a-471cae04ef68" />
 
 ## SIMULATION USING PROTEUS
 
 ### LINE REGULATION SIMULATION
 
-<img width="1920" height="1080" alt="Line_Reg_1" src="https://github.com/user-attachments/assets/c0907bcd-2f6b-4cc1-80a4-58eb4d373b8d" />
+<img width="1097" height="721" alt="Line_Reg_1" src="https://github.com/user-attachments/assets/85581d2c-6fe4-4966-8874-eb351ef01804" />
 
-<img width="1920" height="1080" alt="Line_Reg_2" src="https://github.com/user-attachments/assets/b425239c-1627-482f-8ca1-f462dfb68d7a" />
+<img width="1111" height="708" alt="Line_Reg_2" src="https://github.com/user-attachments/assets/c413ca53-6d1d-4b68-8980-1b274342daba" />
 
 ### LOAD REGULATION SIMULATION
 
-<img width="1920" height="1080" alt="Load_Reg_1" src="https://github.com/user-attachments/assets/ab516a03-9310-4ed1-90bf-776eaa9331d1" />
+<img width="1091" height="727" alt="Load_Reg_1" src="https://github.com/user-attachments/assets/f55e4864-a9e0-4d86-9f29-5206bd91a0c4" />
 
-<img width="1920" height="1080" alt="Load_Reg_2" src="https://github.com/user-attachments/assets/3bdeb0c7-58cc-4041-9255-0c18b9f22d6f" />
+<img width="1103" height="698" alt="Load_Reg_2" src="https://github.com/user-attachments/assets/f63fbeb0-2883-4295-81bc-df2633ee15ea" />
 
 ## OBSERVATION TABLES
 
@@ -141,7 +141,7 @@ Line Regulation = Change in Output Voltage / Change in Input Voltage
 
 Percentage Load Regulation =
 
-((No-load Voltage - Full-load Voltage) / Full-load Voltage) × 100
+(No-load Voltage - Full-load Voltage) / Full-load Voltage) × 100
 
 ## RESULT
 
