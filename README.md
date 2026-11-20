@@ -2,7 +2,7 @@
 
 # ZENER DIODE AS A VOLTAGE REGULATOR
 
-## AIM
+## AIM:
 To study the operation of a Zener diode as a voltage regulator and observe its line regulation and load regulation characteristics using Proteus simulation.
 
 ## APPARATUS REQUIRED
